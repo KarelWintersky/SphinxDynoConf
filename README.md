@@ -1,0 +1,1 @@
+SphinxDynoConfig for https://github.com/manticoresoftware/manticoresearch/issues/296
